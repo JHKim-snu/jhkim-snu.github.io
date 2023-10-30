@@ -1,9 +1,9 @@
 encoding: utf-8
-name: Gi-Cheon Kang
-url: http://gicheonkang.com
+name: Junghyun Kim
+# url: http://gicheonkang.com
 author:
-  name: Gi-Cheon Kang
-  email: gchnkang@gmail.com
-description: I am a third year Ph.D. student in the Graduate School of AI at Seoul National University, advised by Prof. Byoung-Tak Zhang. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm particularly interested in grounded language learning, which aims to connect language to non-linguistic experiences in the physical world, such as sensory perception and action.
+  name: Junghyun Kim
+  email: justinK7272@gmail.com
+description: I am a Ph.D. student in the Graduate School of AI at Seoul National University, advised by Prof. Byoung-Tak Zhang. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm particularly interested in grounded language learning, which ...
 permalink: /posts/:title/
 include: ['_pages']
