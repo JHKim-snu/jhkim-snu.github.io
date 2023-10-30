@@ -12,12 +12,12 @@ permalink:  /
         Ph.D. Student<br>
         Graduate School of AI<br>
         Seoul National University<br>
-        <a target="_blank" href="mailto:gchnkang@gmail.com">gchnkang at gmail dot com</a>
+        <a target="_blank" href="mailto:justinK7272@gmail.com">justinK7272 at gmail dot com</a>
     </div>
 </div>
 <hr>
 
-
+<!--
 <a name="/bio"></a>
 
 # Bio
@@ -227,6 +227,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
     </div>
 </div>
 <hr>
+-->
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
     <tr>
@@ -239,6 +240,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
         </p>
       </td>
     </tr>
+
 </table>
 
 <script src="/js/jquery.min.js"></script>
