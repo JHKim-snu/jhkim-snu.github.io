@@ -22,23 +22,21 @@ permalink:  /
 # Bio
 
 I am a Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. 
-<!--
-My research straddles machine learning, natural language processing, computer vision, and robotics. I'm focused on connecting language with perception and action, enabling machines to understand the semantics of the physical world. The long-term goal of my research is to build machines that can
-- perceive their everyday surroundings through vision or other senses,
-- communicate with humans via grounded natural language,
-- make reliable decisions using language, vision, etc.    
+My research straddles machine learning, natural language processing, computer vision, and robotics. 
+I'm focused on grounding language with perception and action, enabling agents to understand the semantics of the physical world. 
+The long-term goal of my research is to build agents that can learn the semantics of the real-world with minimal human intervention. 
+"Learn 
 
 Specific topics include: (i) robots performing the desired task through language interaction ([arXiv'23][prograsp], [IROS'23][gvcci]), (ii) visually-grounded dialog agents ([CVPR'23][gst], [EMNLP'21][sglkt], [ACL'21][masn], [EMNLP'19][dan]), and (iii) other topics like robustness and image generation ([CVPRW'22][sfa], [NeurIPSW'21][c3], [ICASSP'20][lpart]).
 
 I was fortunate to collaborate with researchers in NAVER and SK Telecom.
 
-Prior to joining Ph.D. program, I did my master study in Cognitive Science at [Seoul National University][1]. Studying cognitive science has had a great influence on my research. I earned my Bachelor's degree in Computer Science from [Ajou University][5].
+Prior to joining Ph.D. program, I did my master study in Cognitive Science at [Seoul National University][1]. Studying cognitive science has had a great influence on my research. I earned my Bachelor's degree in Computer Science from [Yonsei University][5].
 
 
 <p style='text-align:center; color:#9A2617; font-weight:bold'>I'm actively looking for Ph.D. internship positions in 2024! Please let me know if you have any opportunities for me.</p>
 
 ---
--->
 
 <a name="/news"></a>
 
@@ -257,14 +255,6 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 [1]: http://en.snu.ac.kr
 [2]: https://aiis.snu.ac.kr/eng/
 [3]: https://bi.snu.ac.kr/~btzhang/
-[4]: https://gicheonkang.com
-[5]: http://www.ajou.ac.kr/en/
+[5]: https://www.yonsei.ac.kr/en_sc/
 [gvcci]: https://arxiv.org/abs/2307.05963
 [prograsp]: https://arxiv.org/abs/2309.07759
-[gst]: https://arxiv.org/abs/2205.12502
-[sglkt]: https://arxiv.org/abs/2004.06698
-[masn]: https://aclanthology.org/2021.acl-long.481
-[dan]: https://www.aclweb.org/anthology/D19-1209
-[lpart]: https://arxiv.org/abs/2005.02137
-[c3]: https://ctrlgenworkshop.github.io/camready/40/CameraReady/NIPS_Workshop_camera_ready.pdf
-[sfa]: https://openaccess.thecvf.com/content/CVPR2022W/HCIS/papers/Lee_Improving_Robustness_to_Texture_Bias_via_Shape-Focused_Augmentation_CVPRW_2022_paper.pdf 
