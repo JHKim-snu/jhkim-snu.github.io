@@ -17,12 +17,13 @@ permalink:  /
 </div>
 <hr>
 
-<!--
 <a name="/bio"></a>
 
 # Bio
 
-I am a fourth year Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm focused on connecting language with perception and action, enabling machines to understand the semantics of the physical world. The long-term goal of my research is to build machines that can
+I am a Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. 
+<!--
+My research straddles machine learning, natural language processing, computer vision, and robotics. I'm focused on connecting language with perception and action, enabling machines to understand the semantics of the physical world. The long-term goal of my research is to build machines that can
 - perceive their everyday surroundings through vision or other senses,
 - communicate with humans via grounded natural language,
 - make reliable decisions using language, vision, etc.    
@@ -37,6 +38,7 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 <p style='text-align:center; color:#9A2617; font-weight:bold'>I'm actively looking for Ph.D. internship positions in 2024! Please let me know if you have any opportunities for me.</p>
 
 ---
+-->
 
 <a name="/news"></a>
 
@@ -52,15 +54,14 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
 - [Oct 2021] One paper is accepted to NeurIPS 2021 CtrlGen Workshop.
 - [Aug 2021] One paper is accepted to Findings of EMNLP 2021.
 - [May 2021] One paper is accepted to ACL 2021.
-- [Sep 2020] I'm starting my Ph.D. in this fall.
 - [Jun 2020] From July, I'll join <a href="https://aiis.snu.ac.kr">SNU AI Institute</a> (AIIS) as a researcher.
-- [Jan 2020] Our paper has been accepted to ICASSP 2020!
-- [Dec 2019] From January, I'll be a research intern at <a href="https://www.skt.ai">SK T-Brain</a>!
-- [Nov 2019] I gave a spotlight talk at <a href="https://videoturingtest.github.io">Video Turing Test workshop</a>, ICCV 2019.
-- [Oct 2019] I gave an invited talk at <a href="https://www.skt.ai">SK Telecom AI Center</a>.
-- [Aug 2019] Excited to announce that <a href="https://arxiv.org/abs/1902.09368">our paper</a> has been accepted to <a href="https://www.emnlp-ijcnlp2019.org/">EMNLP 2019</a>.
-- [Jun 2019] Our proposed method ranks <b>3rd place</b> in <a href="https://visualdialog.org/challenge/2019">Visual Dialog Challenge 2019</a>!!
-- [Aug 2018] We have a paper accepted to ECCV 2018 Workshop on <a href="http://vizwiz.org/workshop/">VizWiz Grand Challenge</a>.
+- [Dec 2019] Posco AI mentoring <a href="https://">Posco</a>!
+- [Nov 2019] I gave a spotlight talk at <a href="https://">Korea AI Summit</a>.
+- [Oct 2023] Invited talk at <a href="https://">AI</a>.
+- [Jul 2023] We have a <a href="https://arxiv.org/abs/2307.05963">paper</a> accepted to IROS 2023
+- [Dec 2022] KSC Honor Award!
+- [Sep 2022] Starting Ph.D in Graduate School of AI.
+- [Mar 2021] Starting MS in Graduate School of AI.
 
 <div id="read-more-button">
     <a nohref>Read more</a>
@@ -227,7 +228,6 @@ Prior to joining Ph.D. program, I did my master study in Cognitive Science at [S
     </div>
 </div>
 <hr>
--->
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
     <tr>
