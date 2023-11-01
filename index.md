@@ -21,20 +21,14 @@ permalink:  /
 
 # Bio
 
-I am a Ph.D. student in the Graduate School of AI at [Seoul National University][1], advised by [Prof. Byoung-Tak Zhang][3]. 
-My research straddles machine learning, natural language processing, computer vision, and robotics. 
-I'm focused on grounding language with perception and action, enabling agents to understand the semantics of the physical world. 
-The long-term goal of my research is to build agents that can learn the semantics of the real-world with minimal human intervention. 
-"Learn 
+I am a Ph.D. student at the Graduate School of AI, [Seoul National University][1], under the guidance of [Prof. Byoung-Tak Zhang][3]. 
+My research spans the domains of machine learning, natural language processing, computer vision, and robotics. 
+I am passionately dedicated to the grounding of language, perception, and action, with a profound focus on enabling intelligent agents to comprehend the semantics of the physical world. 
+My research objective is to empower agents to autonomously acquire an understanding of the real world with minimal human supervision.
 
-Specific topics include: (i) robots performing the desired task through language interaction ([arXiv'23][prograsp], [IROS'23][gvcci]), (ii) visually-grounded dialog agents ([CVPR'23][gst], [EMNLP'21][sglkt], [ACL'21][masn], [EMNLP'19][dan]), and (iii) other topics like robustness and image generation ([CVPRW'22][sfa], [NeurIPSW'21][c3], [ICASSP'20][lpart]).
+Prior to joining Ph.D. in AI, I completed my Bachelor's degree in Electrical and Electronics Engineering at [Yonsei University][5]. 
+This background has equipped me with a strong foundation in mathematics and engineering, which greatly enriches my research pursuits.
 
-I was fortunate to collaborate with researchers in NAVER and SK Telecom.
-
-Prior to joining Ph.D. program, I did my master study in Cognitive Science at [Seoul National University][1]. Studying cognitive science has had a great influence on my research. I earned my Bachelor's degree in Computer Science from [Yonsei University][5].
-
-
-<p style='text-align:center; color:#9A2617; font-weight:bold'>I'm actively looking for Ph.D. internship positions in 2024! Please let me know if you have any opportunities for me.</p>
 
 ---
 
