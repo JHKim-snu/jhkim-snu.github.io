@@ -36,14 +36,14 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # News
 
+- [Nov 2023] I gave a spotlight talk at <a href="https://">Korea AI Summit</a>.
 - [Oct 2023] Two preprints (<a href="https://arxiv.org/abs/2309.07759">PROGrasp</a> and <a href="https://arxiv.org/abs/2310.12547">PGA</a>) are released! 
-- [Nov 2019] I gave a spotlight talk at <a href="https://">Korea AI Summit</a>.
 - [Oct 2023] Invited talk at <a href="https://">AI</a>.
 - [Jul 2023] AI mentoring in <a href="https://www.posco.co.kr/homepage/docs/eng7/jsp/s91a0000001i.jsp">Posco</a>!
 - [Jun 2023] We have a <a href="https://arxiv.org/abs/2307.05963">paper</a> accepted to IROS 2023
 - [xxx 2023] Samsung AI Expert mentor
-- [Dec 2022] Korea Software Congress Paper Honor Award!
-- [Aug 2022] Starting a collaborative project with <a href="[https://arxiv.org/abs/2307.05963](https://www.surromind.ai/)">SurroMind</a>
+- [Dec 2022] <a href="https://www.kiise.or.kr/academyEng/main/getContent.faEng?content_no=1&MENU_ID=010100">Korea Software Congress</a> Paper Honor Award!
+- [Aug 2022] Starting a collaborative project with <a href="https://www.surromind.ai/">SurroMind</a>
 - [Jul 2022] Great experience mentoring AI projects in <a href="https://www.posco.co.kr/homepage/docs/eng7/jsp/s91a0000001i.jsp">Posco</a>!
 - [Mar 2021] Starting integrated Ph.D in <a href="https://gsai.snu.ac.kr/">Graduate School of AI</a>
 - [Feb 2021] Completed Bachelor's degree in EEE at [Yonsei University][5]
