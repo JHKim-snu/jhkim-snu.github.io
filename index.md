@@ -46,6 +46,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 - [Aug 2022] Starting a collaborative project with <a href="[https://arxiv.org/abs/2307.05963](https://www.surromind.ai/)">SurroMind</a>
 - [Jul 2022] Great experience mentoring AI projects in <a href="https://www.posco.co.kr/homepage/docs/eng7/jsp/s91a0000001i.jsp">Posco</a>!
 - [Mar 2021] Starting integrated Ph.D in <a href="https://gsai.snu.ac.kr/">Graduate School of AI</a>
+- [Feb 2021] Completed Bachelor's degree in EEE at [Yonsei University][5]
 
 <div id="read-more-button">
     <a nohref>Read more</a>
