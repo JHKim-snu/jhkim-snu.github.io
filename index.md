@@ -62,7 +62,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <a name="/pga"></a>
 <h2 class="pubt">PGA: Personalizing Grasping Agents with Single Human-Robot Interaction</h2>
 <p class="pubd">
-    <span class="authors">Junghyun Kim, <span class="u">Gi-Cheon Kang</span><sup>*</sup>, Jaein Kim<sup>*</sup>, Seoyun Yang, Minjoon Jung, Byoung-Tak Zhang</span><br>
+    <span class="authors"><span class="u">Junghyun Kim</span>, Gi-Cheon Kang<sup>*</sup>, Jaein Kim<sup>*</sup>, Seoyun Yang, Minjoon Jung, Byoung-Tak Zhang</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2310.12547">Paper</a>
     </span>
@@ -73,7 +73,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <a name="prograsp"></a>
 <h2 class="pubt">PROGrasp: Pragmatic Human-Robot Communication for Object Grasping</h2>
 <p class="pubd">
-    <span class="authors"><span class="u">Gi-Cheon Kang</span>, Junghyun Kim, Jaein Kim, Byoung-Tak Zhang</span><br>
+    <span class="authors">Gi-Cheon Kang, <span class="u">Junghyun Kim</span>, Jaein Kim, Byoung-Tak Zhang</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2309.07759">Paper</a>
     </span>
@@ -86,7 +86,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <a name="/gvcci"></a>
 <h2 class="pubt">GVCCI: Lifelong Learning of Visual Grounding for Language-Guided Robotic Manipulation</h2>
 <p class="pubd">
-    <span class="authors">Junghyun Kim, <span class="u">Gi-Cheon Kang</span><sup>*</sup>, Jaein Kim<sup>*</sup>, Suyeon Shin, Byoung-Tak Zhang</span><br>
+    <span class="authors"><span class="u">Junghyun Kim</span>, Gi-Cheon Kang<sup>*</sup>, Jaein Kim<sup>*</sup>, Suyeon Shin, Byoung-Tak Zhang</span><br>
     <span class="conf">IROS 2023</span><br>
     <span class="conf">Oral Presentation</span>
     <span class="links">
