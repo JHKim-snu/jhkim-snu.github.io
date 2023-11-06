@@ -91,6 +91,10 @@ This background has equipped me with a strong foundation in mathematics and engi
     <span class="conf">Oral Presentation</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2307.05963">Paper</a>
+        <a target="_blank" href="https://github.com/JHKim-snu/GVCCI">Code</a>
+        <a target="_blank" href="https://mysnu-my.sharepoint.com/:b:/g/personal/justink7272_seoul_ac_kr/ESFwq_zFNX1Ml0F3xFGFGcwBWedNN_VQtzOhVREVrOTp4A?e=KZ1cgg">Poster</a>
+        <a target="_blank" href="https://mysnu-my.sharepoint.com/:v:/g/personal/justink7272_seoul_ac_kr/EX_8ZqI_nhRFtCkvZJpNFXwBztu19DwZlFgJkCZmdfmiIg?e=O23U2B">5min Video</a>
+        <a target="_blank" href="https://mysnu-my.sharepoint.com/:v:/g/personal/justink7272_seoul_ac_kr/ETzzTm8t-7JLvBu0NymEtYEBY-MQoAnzJkResamgYv6-kQ?e=wmFkhC">Demo Video</a>
     </span>
 </p>
 <img src="/img/gvcci_overview.png">
