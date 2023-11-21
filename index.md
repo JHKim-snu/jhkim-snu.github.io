@@ -23,7 +23,7 @@ permalink:  /
 
 I am a Ph.D. student at the Graduate School of AI, [Seoul National University][1], under the guidance of [Prof. Byoung-Tak Zhang][3]. 
 My research spans the domains of machine learning, natural language processing, computer vision, and robotics. 
-I am passionately dedicated to the grounding of language, perception, and action, with a profound focus on enabling intelligent agents to comprehend the semantics of the physical world. 
+I am dedicated to enabling intelligent agents to comprehend human language, with a focus on grounding of language to perception and action. 
 My research objective is to empower agents to autonomously acquire an understanding of the real world with minimal human supervision.
 
 Prior to joining integrated Ph.D. in AI, I completed my Bachelor's degree in Electrical and Electronics Engineering at [Yonsei University][5]. 
@@ -97,9 +97,9 @@ This background has equipped me with a strong foundation in mathematics and engi
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2307.05963">Paper</a>
         <a target="_blank" href="https://github.com/JHKim-snu/GVCCI">Code</a>
-        <a target="_blank" href="https://mysnu-my.sharepoint.com/:b:/g/personal/justink7272_seoul_ac_kr/ESFwq_zFNX1Ml0F3xFGFGcwBWedNN_VQtzOhVREVrOTp4A?e=KZ1cgg">Poster</a>
-        <a target="_blank" href="https://mysnu-my.sharepoint.com/:v:/g/personal/justink7272_seoul_ac_kr/EX_8ZqI_nhRFtCkvZJpNFXwBztu19DwZlFgJkCZmdfmiIg?e=O23U2B">5min Video</a>
-        <a target="_blank" href="https://mysnu-my.sharepoint.com/:v:/g/personal/justink7272_seoul_ac_kr/ETzzTm8t-7JLvBu0NymEtYEBY-MQoAnzJkResamgYv6-kQ?e=wmFkhC">Demo Video</a>
+        <a target="_blank" href="https://drive.google.com/file/d/1QO_ElVKPAxTQo6-pmuHihGgp23WkyBjp/view?usp=sharing">Poster</a>
+        <a target="_blank" href="https://drive.google.com/file/d/1PeWlImlTqXNKS1N0li2fO9xptHlozCVq/view?usp=sharing">Presentation Video</a>
+        <a target="_blank" href="https://drive.google.com/file/d/1DfGMTGrifpXlsp_0Y2XbxmNR4VDlRM1u/view?usp=sharing">Demo Video</a>
     </span>
 </p>
 <img src="/img/gvcci_overview.png">
