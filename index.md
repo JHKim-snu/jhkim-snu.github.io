@@ -36,6 +36,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # News
 
+- [Feb 2024] Presentation at <a href="https://aiseoul2024.com/M4tXQVBtS51702910283544WPIahdxu8?language=ko">AI Seoul 2024</a>! 
 - [Dec 2023] Attending to <a href="https://sites.google.com/g.skku.edu/brainlink2023/home?authuser=0">BrainLink 2023</a>!
 - [Nov 2023] Invited talk at AI Retreat of <a href="https://gsai.snu.ac.kr/">IPAI, SNU</a>.
 - [Nov 2023] I gave a spotlight talk at <a href="https://aisummit2023.kr/page/spotlightsession">Korea AI Summit</a>.
