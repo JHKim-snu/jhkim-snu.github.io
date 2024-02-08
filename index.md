@@ -36,6 +36,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # News
 
+- [Feb 2024] We have a <a href="https://arxiv.org/abs/2309.07759">paper</a> accepted to ICRA 2024!
 - [Feb 2024] Presentation at <a href="https://aiseoul2024.com/M4tXQVBtS51702910283544WPIahdxu8?language=ko">AI Seoul 2024</a>! 
 - [Dec 2023] Attending to <a href="https://sites.google.com/g.skku.edu/brainlink2023/home?authuser=0">BrainLink 2023</a>!
 - [Nov 2023] Invited talk at AI Retreat of <a href="https://gsai.snu.ac.kr/">IPAI, SNU</a>.
@@ -80,6 +81,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">PROGrasp: Pragmatic Human-Robot Communication for Object Grasping</h2>
 <p class="pubd">
     <span class="authors">Gi-Cheon Kang, <span class="u">Junghyun Kim</span>, Jaein Kim, Byoung-Tak Zhang</span><br>
+    <span class="conf">ICRA 2024</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2309.07759">Paper</a>
     </span>
