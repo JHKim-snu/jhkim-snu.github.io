@@ -9,7 +9,7 @@ permalink:  /
         <img src="/img/profile.jpg" class="profile">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        Ph.D. Student<br>
+        Ph.D. Candidate<br>
         Graduate School of AI<br>
         Seoul National University<br>
         <a target="_blank" href="mailto:justinK7272@gmail.com">justinK7272 at gmail dot com</a>
@@ -36,6 +36,8 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # News
 
+- [Mar 2024] Starting Technical Research Personnel of Korea.
+- [Mar 2024] I am now a Ph.D. Candidate!
 - [Feb 2024] We have a <a href="https://arxiv.org/abs/2309.07759">paper</a> accepted to <a href="https://2024.ieee-icra.org/">ICRA 2024</a>!
 - [Feb 2024] Presentation at <a href="https://aiseoul2024.com/M4tXQVBtS51702910283544WPIahdxu8?language=ko">AI Seoul 2024</a>! 
 - [Dec 2023] Attending to <a href="https://sites.google.com/g.skku.edu/brainlink2023/home?authuser=0">BrainLink 2023</a>!
