@@ -10,7 +10,8 @@ permalink:  /
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Ph.D. Candidate<br>
-        Graduate School of AI<br>
+        Graduate School of AI (GSAI)<br>
+        Artificial Intelligence Institute (AIIS)<br>
         Seoul National University<br>
         <a target="_blank" href="mailto:justinK7272@gmail.com">justinK7272 at gmail dot com</a>
         (+82)10-9844-9885
