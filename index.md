@@ -13,7 +13,7 @@ permalink:  /
         Graduate School of AI (GSAI)<br>
         Artificial Intelligence Institute (AIIS)<br>
         Seoul National University<br>
-        <a target="_blank" href="mailto:justinK7272@gmail.com">justinK7272 at gmail dot com</a>
+        <a target="_blank" href="mailto:justinK7272@gmail.com">justinK7272 at gmail dot com</a><br>
         (+82)10-9844-9885
     </div>
 </div>
