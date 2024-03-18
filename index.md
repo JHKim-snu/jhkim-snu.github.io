@@ -13,6 +13,7 @@ permalink:  /
         Graduate School of AI<br>
         Seoul National University<br>
         <a target="_blank" href="mailto:justinK7272@gmail.com">justinK7272 at gmail dot com</a>
+        (+82)10-9844-9885
     </div>
 </div>
 <hr>
@@ -74,6 +75,7 @@ This background has equipped me with a strong foundation in mathematics and engi
     <span class="authors"><span class="u">Junghyun Kim</span>, Gi-Cheon Kang<sup>*</sup>, Jaein Kim<sup>*</sup>, Seoyun Yang, Minjoon Jung, Byoung-Tak Zhang</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2310.12547">Paper</a>
+        <a target="_blank" href="https://github.com/JHKim-snu/PGA">Code</a>
     </span>
 </p>
 <img src="/img/pga_overview.png">
