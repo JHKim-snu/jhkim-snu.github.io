@@ -22,13 +22,13 @@ permalink:  /
 
 # Bio
 
-I am a Ph.D. student at the Graduate School of AI, [Seoul National University][1], under the guidance of [Prof. Byoung-Tak Zhang][3]. 
+I am a Ph.D. candidate at the Graduate School of AI, [Seoul National University][1], under the guidance of [Prof. Byoung-Tak Zhang][3]. 
 My research spans the domains of machine learning, natural language processing, computer vision, and robotics. 
 I am dedicated to enabling intelligent agents to comprehend human language, with a focus on grounding of language to perception and action. 
 My research objective is to empower agents to autonomously acquire an understanding of the real world with minimal human supervision.
 
 Prior to joining integrated Ph.D. in AI, I completed my Bachelor's degree in Electrical and Electronics Engineering at [Yonsei University][5]. 
-This background has equipped me with a strong foundation in mathematics and engineering, which greatly enriches my research pursuits.
+This background has equipped me with a strong foundation in mathematics and engineering.
 
 
 ---
