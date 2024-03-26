@@ -120,6 +120,8 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 - IEEE Robotics and Automation Letters (RA-L), 2024
 
+<hr>
+
 
 <a name="/services"></a>
 
