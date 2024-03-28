@@ -123,8 +123,6 @@ This background has equipped me with a strong foundation in mathematics and engi
 <hr>
 
 
-<a name="/services"></a>
-
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
     <tr>
