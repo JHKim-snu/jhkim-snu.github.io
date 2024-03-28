@@ -70,10 +70,24 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # Publications
 
+<a name="/socratic"></a>
+<h2 class="pubt">Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following</h2>
+<p class="pubd">
+    <span class="authors">J</span><br>
+    <span class="conf">preprint</span><br>
+    <span class="links">
+        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="">Code</a>
+    </span>
+</p>
+<img src="/img/Socratic_overview_figure.png">
+<hr>
+
 <a name="/pga"></a>
 <h2 class="pubt">PGA: Personalizing Grasping Agents with Single Human-Robot Interaction</h2>
 <p class="pubd">
     <span class="authors"><span class="u">Junghyun Kim</span>, Gi-Cheon Kang<sup>*</sup>, Jaein Kim<sup>*</sup>, Seoyun Yang, Minjoon Jung, Byoung-Tak Zhang</span><br>
+    <span class="conf">preprint</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2310.12547">Paper</a>
         <a target="_blank" href="https://github.com/JHKim-snu/PGA">Code</a>
