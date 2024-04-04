@@ -75,15 +75,9 @@ This background has equipped me with a strong foundation in mathematics and engi
 - [Mar 2024] Starting Technical Research Personnel of Korea.
 - [Mar 2024] I am now a Ph.D. Candidate!
 
-<hr>
-
-
-<a name="/reviewing"></a>
-
-# Reviewing Services
-
-- IEEE Robotics and Automation Letters (RA-L), 2024
-- EEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
+<div id="read-more-button">
+    <a nohref>Read more</a>
+</div>
 
 <hr>
 
@@ -150,6 +144,19 @@ This background has equipped me with a strong foundation in mathematics and engi
 </p>
 <img src="/img/gvcci_overview.png">
 <hr>
+
+
+
+<a name="/reviewing"></a>
+
+# Reviewing Services
+
+- IEEE Robotics and Automation Letters (RA-L), 2024
+- EEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
+
+<hr>
+
+
 
 
 
