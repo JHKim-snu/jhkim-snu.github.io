@@ -38,6 +38,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # News
 
+- [Apr 2024] Reviewing RA-L and IROS 2024
 - [Mar 2024] Starting Technical Research Personnel of Korea.
 - [Mar 2024] I am now a Ph.D. Candidate!
 - [Feb 2024] We have a <a href="https://arxiv.org/abs/2309.07759">paper</a> accepted to <a href="https://2024.ieee-icra.org/">ICRA 2024</a>!
@@ -128,11 +129,12 @@ This background has equipped me with a strong foundation in mathematics and engi
 <img src="/img/gvcci_overview.png">
 <hr>
 
-<a name="/Reviewing Services"></a>
+<a name="/reviewing"></a>
 
 # Reviewing Services
 
 - IEEE Robotics and Automation Letters (RA-L), 2024
+- EEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
 
 <hr>
 
