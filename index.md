@@ -134,18 +134,13 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # Invited Talks
 
-<div class="row">
-    <div class="col-sm-12">
-        <h2 class="talkt" style="font-weight:300;">The Evolution of Language Models: From Basic NLP to ChatGPT and Beyond</h2>
-        <p class="talkd">
-            Dept. of Energy Resources Engineering, Seoul National University (Nov. 2023)
-        </p>
-    </div>
-</div>
 
 - IEEE Robotics and Automation Letters (RA-L), 2024
 
-
+<div class="talkt">
+    EEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
+</div>
+  
 <hr>
 
 
