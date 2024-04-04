@@ -143,6 +143,9 @@ This background has equipped me with a strong foundation in mathematics and engi
     </div>
 </div>
 
+- IEEE Robotics and Automation Letters (RA-L), 2024
+
+
 <hr>
 
 
