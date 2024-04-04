@@ -67,6 +67,17 @@ This background has equipped me with a strong foundation in mathematics and engi
 <hr>
 
 
+<a name="/reviewing"></a>
+
+# Reviewing Services
+
+- IEEE Robotics and Automation Letters (RA-L), 2024
+- EEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
+
+<hr>
+
+
+
 <a name="/publications"></a>
 
 # Publications
@@ -129,14 +140,6 @@ This background has equipped me with a strong foundation in mathematics and engi
 <img src="/img/gvcci_overview.png">
 <hr>
 
-<a name="/reviewing"></a>
-
-# Reviewing Services
-
-- IEEE Robotics and Automation Letters (RA-L), 2024
-- EEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
-
-<hr>
 
 
 
