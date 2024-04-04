@@ -67,22 +67,6 @@ This background has equipped me with a strong foundation in mathematics and engi
 <hr>
 
 
-<a name="/news"></a>
-
-# News
-
-- [Apr 2024] Reviewing RA-L and IROS 2024
-- [Mar 2024] Starting Technical Research Personnel of Korea.
-- [Mar 2024] I am now a Ph.D. Candidate!
-
-<div id="read-more-button">
-    <a nohref>Read more</a>
-</div>
-
-<hr>
-
-
-
 <a name="/publications"></a>
 
 # Publications
