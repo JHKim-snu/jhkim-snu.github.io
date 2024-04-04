@@ -130,6 +130,23 @@ This background has equipped me with a strong foundation in mathematics and engi
 <hr>
 
 
+<a name="/talks"></a>
+
+# Invited Talks
+
+<div class="row">
+    <div class="col-sm-12">
+        <h2 class="talkt" style="font-weight:300;">The Evolution of Language Models: From Basic NLP to ChatGPT and Beyond</h2>
+        <p class="talkd">
+            Dept. of Energy Resources Engineering, Seoul National University (Nov. 2023)
+        </p>
+    </div>
+</div>
+
+<hr>
+
+
+
 
 <a name="/reviewing"></a>
 
