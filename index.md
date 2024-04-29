@@ -74,10 +74,10 @@ This background has equipped me with a strong foundation in mathematics and engi
 <a name="/socratic"></a>
 <h2 class="pubt">Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following</h2>
 <p class="pubd">
-    <span class="authors">J</span><br>
+    <span class="authors">Suyeon Shin, Sujin jeon<sup>*</sup>, <span class="u">Junghyun Kim<sup>*</sup></span>, Gi-Cheon Kang<sup>*</sup>, Byoung-Tak Zhang</span><br>
     <span class="conf">preprint</span><br>
     <span class="links">
-        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2404.15190">Paper</a>
         <a target="_blank" href="">Code</a>
     </span>
 </p>
