@@ -38,6 +38,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # News
 
+- [Jul 2024] We have a <a href="https://arxiv.org/abs/2310.12547">paper</a> accepted to <a href="https://iros2024-abudhabi.org/">IROS 2024</a>!
 - [Apr 2024] Reviewing RA-L and IROS 2024
 - [Mar 2024] Starting Technical Research Personnel of Korea.
 - [Mar 2024] I am now a Ph.D. Candidate!
@@ -88,7 +89,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">PGA: Personalizing Grasping Agents with Single Human-Robot Interaction</h2>
 <p class="pubd">
     <span class="authors"><span class="u">Junghyun Kim</span>, Gi-Cheon Kang<sup>*</sup>, Jaein Kim<sup>*</sup>, Seoyun Yang, Minjoon Jung, Byoung-Tak Zhang</span><br>
-    <span class="conf">preprint</span><br>
+    <span class="conf">IROS 2024</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2310.12547">Paper</a>
         <a target="_blank" href="https://github.com/JHKim-snu/PGA">Code</a>
