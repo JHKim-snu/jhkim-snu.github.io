@@ -23,10 +23,9 @@ permalink:  /
 
 # Bio
 
-I am a Ph.D. candidate at the Graduate School of AI, [Seoul National University][1], under the guidance of [Prof. Byoung-Tak Zhang][3]. 
-My research spans the domains of machine learning, natural language processing, computer vision, and robotics. 
-I am dedicated to enabling intelligent agents to comprehend human language, with a focus on grounding of language to perception and action. 
-My research objective is to empower agents to autonomously acquire an understanding of the real world with minimal human supervision.
+I am a Ph.D. candidate at the Graduate School of AI, [Seoul National University][1], under the guidance of [Prof. Byoung-Tak Zhang][3].
+I am currently interested in developing foundation models for generalist robots, grounding of language to perception and action.
+My research objective is to empower robots to autonomously acquire an understanding of the real world with minimal human supervision.
 
 Prior to joining integrated Ph.D. in AI, I completed my Bachelor's degree in Electrical and Electronics Engineering at [Yonsei University][5]. 
 This background has equipped me with a strong foundation in mathematics and engineering.
@@ -38,6 +37,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # News
 
+- [Nov 2024] Presenting our new work <a href="https://arxiv.org/abs/2310.12547">paper</a> accepted to <a href="https://iros2024-abudhabi.org/">IROS 2024</a>!
 - [Jul 2024] We have a <a href="https://arxiv.org/abs/2310.12547">paper</a> accepted to <a href="https://iros2024-abudhabi.org/">IROS 2024</a>!
 - [Apr 2024] Reviewing RA-L and IROS 2024
 - [Mar 2024] Starting Technical Research Personnel of Korea.
@@ -71,6 +71,22 @@ This background has equipped me with a strong foundation in mathematics and engi
 <a name="/publications"></a>
 
 # Publications
+
+<a name="/cliprt"></a>
+<h2 class="pubt">CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</h2>
+<p class="pubd">
+    <span class="authors"><span class="u">Gi-Cheon Kang<sup>*</sup>, Junghyun Kim<sup>*</sup></span>, Kyuhwan Shim, Jun Ki Lee<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
+    <span class="conf">CoRL 2024 Workshop on Language and Robot Learning</span>
+    <span class="links">
+        <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
+        <a target="_blank" href="https://arxiv.org/abs/2411.00508">Paper</a>
+    </span>
+</p>
+<video playsinline autoplay muted loop style="width: 100%" class="webby">
+    <source src="/img/cliprt_overview.mp4" type="video/mp4"></source>
+</video>
+<hr>
+
 
 <a name="/socratic"></a>
 <h2 class="pubt">Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following</h2>
