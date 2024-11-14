@@ -37,7 +37,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # News
 
-- [Dec 2024] Excited to have a spotlight talk at Korea AI Summit 2024!
+- [Dec 2024] Excited to have a spotlight talk at <a href="https://aisummit2024.kr/">Korea AI Summit 2024</a>!
 - [Nov 2024] Presenting our new <a href="https://clip-rt.github.io/">work</a> at <a href="https://sites.google.com/view/langrob-corl24/home?authuser=0">LangRob, CoRL</a>!
 - [Jul 2024] We have a <a href="https://arxiv.org/abs/2310.12547">paper</a> accepted to <a href="https://iros2024-abudhabi.org/">IROS 2024</a>!
 - [Apr 2024] Reviewing RA-L and IROS 2024
