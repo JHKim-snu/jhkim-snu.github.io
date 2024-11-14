@@ -76,7 +76,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <a name="/cliprt"></a>
 <h2 class="pubt">CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</h2>
 <p class="pubd">
-    <span class="authors"><span class="u">Gi-Cheon Kang<sup>*</sup>, Junghyun Kim<sup>*</sup></span>, Kyuhwan Shim, Jun Ki Lee<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
+    <span class="authors">Gi-Cheon Kang<sup>*</sup>, <span class="u">Junghyun Kim<sup>*</sup></span>, Kyuhwan Shim, Jun Ki Lee<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
     <span class="conf">CoRL 2024 Workshop on Language and Robot Learning</span>
     <span class="links">
         <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
