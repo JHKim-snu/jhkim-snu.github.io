@@ -37,6 +37,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # News
 
+- [Feb 2025] We have a <a href="https://arxiv.org/abs/2404.15190">paper</a> accepted to <a href="https://2025.ieee-icra.org/">ICRA 2025</a>!
 - [Dec 2024] Excited to have a spotlight talk at <a href="https://aisummit2024.kr/">Korea AI Summit 2024</a>!
 - [Nov 2024] Presenting our new <a href="https://clip-rt.github.io/">work</a> at <a href="https://sites.google.com/view/langrob-corl24/home?authuser=0">LangRob, CoRL</a>!
 - [Jul 2024] We have a <a href="https://arxiv.org/abs/2310.12547">paper</a> accepted to <a href="https://iros2024-abudhabi.org/">IROS 2024</a>!
@@ -93,7 +94,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following</h2>
 <p class="pubd">
     <span class="authors">Suyeon Shin, Sujin jeon<sup>*</sup>, <span class="u">Junghyun Kim<sup>*</sup></span>, Gi-Cheon Kang<sup>*</sup>, Byoung-Tak Zhang</span><br>
-    <span class="conf">preprint</span><br>
+    <span class="conf">ICRA 2025</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2404.15190">Paper</a>
         <a target="_blank" href="">Code</a>
