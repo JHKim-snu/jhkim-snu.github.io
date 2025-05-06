@@ -37,6 +37,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # News
 
+- [Apr 2025] Our paper <a href="https://clip-rt.github.io/">CLIP‑RT</a> has been accepted to <a href="https://roboticsconference.org/">RSS 2025</a>!
 - [Feb 2025] We have a <a href="https://arxiv.org/abs/2404.15190">paper</a> accepted to <a href="https://2025.ieee-icra.org/">ICRA 2025</a>!
 - [Dec 2024] Excited to have a spotlight talk at <a href="https://aisummit2024.kr/">Korea AI Summit 2024</a>!
 - [Nov 2024] Presenting our new <a href="https://clip-rt.github.io/">work</a> at <a href="https://sites.google.com/view/langrob-corl24/home?authuser=0">LangRob, CoRL</a>!
