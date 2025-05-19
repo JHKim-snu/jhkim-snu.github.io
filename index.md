@@ -75,19 +75,42 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # Publications
 
+<a name="/video_nips"></a>
+<h2 class="pubt">Towards Video Large Language Models for View-Invariant Understanding</h2>
+<p class="pubd">
+    <span class="authors">Minjoon Jung, Junbin Xiao, <span class="u">Junghyun Kim</span>, Il-Jae Kwon, Byoung-Tak Zhang, Angela Yao</span><br>
+    <span class="conf">Neural Information Processing Systems (NeurIPS 2025)(Under Review)</span><br>
+</p>
+<img src="/img/video_method_overview.pdf">
+<hr>
+
+
 <a name="/cliprt"></a>
 <h2 class="pubt">CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</h2>
 <p class="pubd">
     <span class="authors">Gi-Cheon Kang<sup>*</sup>, <span class="u">Junghyun Kim<sup>*</sup></span>, Kyuhwan Shim, Jun Ki Lee<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
+    <span class="conf">Robotics: Science and Systems (RSS 2025)</span><br>
     <span class="conf">CoRL 2024 Workshop on Language and Robot Learning</span>
     <span class="links">
         <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
         <a target="_blank" href="https://arxiv.org/abs/2411.00508">Paper</a>
+        <a target="_blank" href="https://github.com/clip-rt/clip-rt">Github</a>
+        <a target="_blank" href="https://huggingface.co/clip-rt">HuggingFace</a>
     </span>
 </p>
 <video playsinline autoplay muted loop style="width: 100%" class="webby">
     <source src="/img/cliprt_overview.mp4" type="video/mp4"></source>
 </video>
+<hr>
+
+
+<a name="/video_w"></a>
+<h2 class="pubt">Exploring Video Large Language Models for Synchronized Ego-Exo Video Understanding</h2>
+<p class="pubd">
+    <span class="authors">Minjoon Jung, Junbin Xiao, <span class="u">Junghyun Kim</span>, Byoung-Tak Zhang, Angela Yao</span><br>
+    <span class="conf">CVPR 2025 VideoLLMs</span><br>
+</p>
+<img src="/img/cvpr_w_overview.png">
 <hr>
 
 
