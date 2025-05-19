@@ -81,7 +81,7 @@ This background has equipped me with a strong foundation in mathematics and engi
     <span class="authors">Minjoon Jung, Junbin Xiao, <span class="u">Junghyun Kim</span>, Il-Jae Kwon, Byoung-Tak Zhang, Angela Yao</span><br>
     <span class="conf">Neural Information Processing Systems (NeurIPS 2025)(Under Review)</span><br>
 </p>
-<img src="/img/video_method_overview.pdf">
+<img src="/img/video_method_overview.png">
 <hr>
 
 
