@@ -104,15 +104,6 @@ This background has equipped me with a strong foundation in mathematics and engi
 <hr>
 
 
-<a name="/video_w"></a>
-<h2 class="pubt">Exploring Video Large Language Models for Synchronized Ego-Exo Video Understanding</h2>
-<p class="pubd">
-    <span class="authors">Minjoon Jung, Junbin Xiao, <span class="u">Junghyun Kim</span>, Byoung-Tak Zhang, Angela Yao</span><br>
-    <span class="conf">CVPR 2025 VideoLLMs</span><br>
-</p>
-<img src="/img/cvpr_w_overview.png">
-<hr>
-
 
 <a name="/socratic"></a>
 <h2 class="pubt">Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following</h2>
