@@ -37,6 +37,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # News
 
+- [Jun 2025] Excited to join the Program Committee as a reviewer for the NeurIPS 2025 workshop on <a href="https://existentialrobotics.org/Neurips_2025_Workshop_R4A/">R4A: Spatial, Temporal, and Symbolic Reasoning for Physical Agents</a>
 - [Apr 2025] Our paper <a href="https://clip-rt.github.io/">CLIP‑RT</a> has been accepted to <a href="https://roboticsconference.org/">RSS 2025</a>!
 - [Feb 2025] We have a <a href="https://arxiv.org/abs/2404.15190">paper</a> accepted to <a href="https://2025.ieee-icra.org/">ICRA 2025</a>!
 - [Dec 2024] Excited to have a spotlight talk at <a href="https://aisummit2024.kr/">Korea AI Summit 2024</a>!
@@ -46,7 +47,8 @@ This background has equipped me with a strong foundation in mathematics and engi
 - [Mar 2024] Starting Technical Research Personnel of Korea.
 - [Mar 2024] I am now a Ph.D. Candidate!
 - [Feb 2024] We have a <a href="https://arxiv.org/abs/2309.07759">paper</a> accepted to <a href="https://2024.ieee-icra.org/">ICRA 2024</a>!
-- [Feb 2024] Presentation at <a href="https://aiseoul2024.com/M4tXQVBtS51702910283544WPIahdxu8?language=ko">AI Seoul 2024</a>! 
+- [Feb 2024] Presentation at <a href="https://aiseoul2024.com/M4tXQVBtS51702910283544WPIahdxu8?language=ko">AI Seoul 2024</a>!
+- [Dec 2023] Appointed Lab Manager of the <a href="https://bi.snu.ac.kr/">Biointelligence Lab</a>
 - [Dec 2023] Attending to <a href="https://sites.google.com/g.skku.edu/brainlink2023/home?authuser=0">BrainLink 2023</a>!
 - [Nov 2023] Invited talk at AI Retreat of <a href="https://gsai.snu.ac.kr/">IPAI, SNU</a>.
 - [Nov 2023] I gave a spotlight talk at <a href="https://aisummit2023.kr/page/spotlightsession">Korea AI Summit</a>.
@@ -74,6 +76,21 @@ This background has equipped me with a strong foundation in mathematics and engi
 <a name="/publications"></a>
 
 # Publications
+
+<a name="/actionBERT"></a>
+<h2 class="pubt">ActionBERT: Learning Transferable Encoder Representation of Action Sequences</h2>
+<p class="pubd">
+    <span class="conf">Comming Soon!</span><br>
+</p>
+<hr>
+
+<a name="/actionBERT"></a>
+<h2 class="pubt">Zero-shot Interactive Personalized Object Navigation</h2>
+<p class="pubd">
+    <span class="conf">Comming Soon!</span><br>
+</p>
+<hr>
+
 
 <a name="/video_nips"></a>
 <h2 class="pubt">Towards Video Large Language Models for View-Invariant Understanding</h2>
@@ -175,7 +192,12 @@ This background has equipped me with a strong foundation in mathematics and engi
 <div class="talkt">
     EEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
 </div>
-  
+
+<div class="talkt">
+    NeurIPS 2025 workshop <a href="https://existentialrobotics.org/Neurips_2025_Workshop_R4A/">R4A: Spatial, Temporal, and Symbolic Reasoning for Physical Agents
+
+</div>
+
 <hr>
 
 
