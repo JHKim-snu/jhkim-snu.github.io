@@ -23,11 +23,11 @@ permalink:  /
 
 # Bio
 
-I am a Ph.D. candidate at the Graduate School of AI, [Seoul National University][1], under the guidance of [Prof. Byoung-Tak Zhang][3].
+I am a Ph.D. candidate at the Graduate School of AI, <a href="http://en.snu.ac.kr">Seoul National University</a>, under the guidance of <a href="https://bi.snu.ac.kr/~btzhang/">Prof. Byoung-Tak Zhang</a>.
 I am currently interested in developing foundation models for generalist robots, grounding of language to perception and action.
 My research objective is to empower robots to autonomously acquire an understanding of the real world with minimal human supervision.
 
-Prior to joining integrated Ph.D. in AI, I completed my Bachelor's degree in Electrical and Electronics Engineering at [Yonsei University][5]. 
+Prior to joining integrated Ph.D. in AI, I completed my Bachelor's degree in Electrical and Electronics Engineering at <a href="https://www.yonsei.ac.kr/en_sc/">Yonsei University</a>. 
 This background has equipped me with a strong foundation in mathematics and engineering.
 
 
@@ -228,10 +228,3 @@ This background has equipped me with a strong foundation in mathematics and engi
 </script>
 
 ---
-
-[1]: http://en.snu.ac.kr
-[2]: https://aiis.snu.ac.kr/eng/
-[3]: https://bi.snu.ac.kr/~btzhang/
-[5]: https://www.yonsei.ac.kr/en_sc/
-[gvcci]: https://arxiv.org/abs/2307.05963
-[prograsp]: https://arxiv.org/abs/2309.07759
