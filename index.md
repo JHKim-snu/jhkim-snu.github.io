@@ -37,7 +37,6 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # News
 
-- [Jun 2025] Excited to join the Program Committee as a reviewer for the NeurIPS 2025 workshop on <a href="https://existentialrobotics.org/Neurips_2025_Workshop_R4A/">R4A: Spatial, Temporal, and Symbolic Reasoning for Physical Agents</a>
 - [Apr 2025] Our paper <a href="https://clip-rt.github.io/">CLIP‑RT</a> has been accepted to <a href="https://roboticsconference.org/">RSS 2025</a>!
 - [Feb 2025] We have a <a href="https://arxiv.org/abs/2404.15190">paper</a> accepted to <a href="https://2025.ieee-icra.org/">ICRA 2025</a>!
 - [Dec 2024] Excited to have a spotlight talk at <a href="https://aisummit2024.kr/">Korea AI Summit 2024</a>!
@@ -191,11 +190,6 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 <div class="talkt">
     EEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
-</div>
-
-<div class="talkt">
-    NeurIPS 2025 workshop <a href="https://existentialrobotics.org/Neurips_2025_Workshop_R4A/">R4A: Spatial, Temporal, and Symbolic Reasoning for Physical Agents
-
 </div>
 
 <hr>
