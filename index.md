@@ -92,10 +92,10 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 
 <a name="/video_nips"></a>
-<h2 class="pubt">Towards Video Large Language Models for View-Invariant Understanding</h2>
+<h2 class="pubt">Towards Ego-Exo View-Invariant Video Understanding</h2>
 <p class="pubd">
     <span class="authors">Minjoon Jung, Junbin Xiao, <span class="u">Junghyun Kim</span>, Il-Jae Kwon, Byoung-Tak Zhang, Angela Yao</span><br>
-    <span class="conf">Neural Information Processing Systems (NeurIPS 2025)(Under Review)</span><br>
+    <span class="conf">The International Conference on Learning Representations (ICLR 2026)(Under Review)</span><br>
 </p>
 <img src="/img/video_method_overview.png">
 <hr>
