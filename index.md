@@ -83,10 +83,12 @@ This background has equipped me with a strong foundation in mathematics and engi
 </p>
 <hr>
 
-<a name="/actionBERT"></a>
-<h2 class="pubt">Zero-shot Interactive Personalized Object Navigation</h2>
+<a name="/PRORION"></a>
+<h2 class="pubt">PRORION: Enabling Proactive Cognition for Zero-shot Interactive Personalized Object Navigation
+</h2>
 <p class="pubd">
-    <span class="conf">Comming Soon!</span><br>
+    <span class="authors">Seongjun Jeong, <span class="u">Junghyun Kim</span>, Gi-Cheon Kang, Byoung-Tak Zhang</span><br>
+    <span class="conf">ICRA 2026 (Under Review)</span><br>
 </p>
 <hr>
 
@@ -95,7 +97,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">Towards Ego-Exo View-Invariant Video Understanding</h2>
 <p class="pubd">
     <span class="authors">Minjoon Jung, Junbin Xiao, <span class="u">Junghyun Kim</span>, Il-Jae Kwon, Byoung-Tak Zhang, Angela Yao</span><br>
-    <span class="conf">The International Conference on Learning Representations (ICLR 2026)(Under Review)</span><br>
+    <span class="conf">ICLR 2026 (Under Review)</span><br>
 </p>
 <img src="/img/video_method_overview.png">
 <hr>
