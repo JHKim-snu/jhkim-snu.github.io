@@ -94,7 +94,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 
 <a name="/video_nips"></a>
-<h2 class="pubt">Towards Ego-Exo View-Invariant Video Understanding</h2>
+<h2 class="pubt">EgoExo-Con: Exploring View-Invariant Video Temporal Understanding</h2>
 <p class="pubd">
     <span class="authors">Minjoon Jung, Junbin Xiao, <span class="u">Junghyun Kim</span>, Il-Jae Kwon, Byoung-Tak Zhang, Angela Yao</span><br>
     <span class="conf">ICLR 2026 (Under Review)</span><br>
