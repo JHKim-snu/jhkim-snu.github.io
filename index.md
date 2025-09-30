@@ -76,12 +76,12 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # Publications
 
-<a name="/actionBERT"></a>
+<!-- <a name="/actionBERT"></a>
 <h2 class="pubt">ActionBERT: Learning Transferable Encoder Representation of Action Sequences</h2>
 <p class="pubd">
     <span class="conf">Comming Soon!</span><br>
 </p>
-<hr>
+<hr> -->
 
 <a name="/PRORION"></a>
 <h2 class="pubt">PRORION: Enabling Proactive Cognition for Zero-shot Interactive Personalized Object Navigation
@@ -97,7 +97,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">EgoExo-Con: Exploring View-Invariant Video Temporal Understanding</h2>
 <p class="pubd">
     <span class="authors">Minjoon Jung, Junbin Xiao, <span class="u">Junghyun Kim</span>, Il-Jae Kwon, Byoung-Tak Zhang, Angela Yao</span><br>
-    <span class="conf">ICLR 2026 (Under Review)</span><br>
+    <span class="conf">NeurIPS 2025 Workshop on Multimodal Algorithmic Reasoning</span><br>
 </p>
 <img src="/img/video_method_overview.png">
 <hr>
