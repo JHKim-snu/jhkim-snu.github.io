@@ -96,7 +96,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <a name="/video_nips"></a>
 <h2 class="pubt">EgoExo-Con: Exploring View-Invariant Video Temporal Understanding</h2>
 <p class="pubd">
-    <span class="authors">Minjoon Jung, Junbin Xiao, <span class="u">Junghyun Kim</span>, Il-Jae Kwon, Byoung-Tak Zhang, Angela Yao</span><br>
+    <span class="authors">Minjoon Jung, Junbin Xiao, <span class="u">Junghyun Kim</span>, Byoung-Tak Zhang, Angela Yao</span><br>
     <span class="conf">NeurIPS 2025 Workshop on Multimodal Algorithmic Reasoning</span><br>
 </p>
 <img src="/img/video_method_overview.png">
