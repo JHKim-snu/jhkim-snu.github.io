@@ -101,7 +101,6 @@ This background has equipped me with a strong foundation in mathematics and engi
 </h2>
 <p class="pubd">
     <span class="authors">Seongjun Jeong, <span class="u">Junghyun Kim</span>, Gi-Cheon Kang, Byoung-Tak Zhang</span><br>
-    <span class="conf">ICRA 2026 (Under Review)</span><br>
 </p>
 <hr>
 
