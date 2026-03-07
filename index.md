@@ -83,6 +83,19 @@ This background has equipped me with a strong foundation in mathematics and engi
 </p>
 <hr> -->
 
+
+<a name="/jangha_eccv"></a>
+<h2 class="pubt">RefineGround: From Noisy Similarity to Discriminative Grounding for Zero-shot Video Moment Retrieval</h2>
+<p class="pubd">
+    <span class="authors">Jangha Lee, Junbin Xiao, <span class="u">Junghyun Kim</span>, Byoung-Tak Zhang, Minjoon Jung</span><br>
+    <span class="conf">ECCV 2026 (Under Review)</span><br>
+    <span class="links">
+        <a target="_blank" href="">Paper</a>
+    </span>
+</p>
+<hr>
+
+
 <a name="/PRORION"></a>
 <h2 class="pubt">PRORION: Enabling Proactive Cognition for Zero-shot Interactive Personalized Object Navigation
 </h2>
@@ -97,7 +110,13 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">EgoExo-Con: Exploring View-Invariant Video Temporal Understanding</h2>
 <p class="pubd">
     <span class="authors">Minjoon Jung, Junbin Xiao, <span class="u">Junghyun Kim</span>, Byoung-Tak Zhang, Angela Yao</span><br>
+    <span class="conf">ECCV 2026 (Under Review)</span><br>
     <span class="conf">NeurIPS 2025 Workshop on Multimodal Algorithmic Reasoning</span><br>
+    <span class="links">
+        <a target="_blank" href="https://minjoong507.github.io/projects/EgoExo-Con/">Project Page</a>
+        <a target="_blank" href="https://arxiv.org/abs/2510.26113">Paper</a>
+        <a target="_blank" href="https://github.com/minjoong507/EgoExo-Con">Github</a>
+    </span>
 </p>
 <img src="/img/video_method_overview.png">
 <hr>
