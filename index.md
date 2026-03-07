@@ -117,7 +117,7 @@ This background has equipped me with a strong foundation in mathematics and engi
         <a target="_blank" href="https://github.com/minjoong507/EgoExo-Con">Github</a>
     </span>
 </p>
-<img src="/img/video_method_overview.png">
+<!-- <img src="/img/video_method_overview.png"> -->
 <hr>
 
 
@@ -134,9 +134,9 @@ This background has equipped me with a strong foundation in mathematics and engi
         <a target="_blank" href="https://huggingface.co/clip-rt">HuggingFace</a>
     </span>
 </p>
-<video playsinline autoplay muted loop style="width: 100%" class="webby">
+<!-- <video playsinline autoplay muted loop style="width: 100%" class="webby">
     <source src="/img/cliprt_overview.mp4" type="video/mp4"></source>
-</video>
+</video> -->
 <hr>
 
 
@@ -151,7 +151,7 @@ This background has equipped me with a strong foundation in mathematics and engi
         <a target="_blank" href="">Code</a>
     </span>
 </p>
-<img src="/img/Socratic_overview_figure.png">
+<!-- <img src="/img/Socratic_overview_figure.png"> -->
 <hr>
 
 <a name="/pga"></a>
@@ -164,7 +164,7 @@ This background has equipped me with a strong foundation in mathematics and engi
         <a target="_blank" href="https://github.com/JHKim-snu/PGA">Code</a>
     </span>
 </p>
-<img src="/img/pga_overview.png">
+<!-- <img src="/img/pga_overview.png"> -->
 <hr>
 
 <a name="prograsp"></a>
@@ -177,9 +177,9 @@ This background has equipped me with a strong foundation in mathematics and engi
         <a target="_blank" href="https://github.com/gicheonkang/prograsp">Code</a>
     </span>
 </p>
-<video playsinline autoplay muted loop style="width: 100%" class="webby">
+<!-- <video playsinline autoplay muted loop style="width: 100%" class="webby">
     <source src="/img/prograsp_overview.mp4" type="video/mp4"></source>
-</video>
+</video> -->
 <hr>
 
 <a name="/gvcci"></a>
@@ -196,7 +196,7 @@ This background has equipped me with a strong foundation in mathematics and engi
         <a target="_blank" href="https://drive.google.com/file/d/1DfGMTGrifpXlsp_0Y2XbxmNR4VDlRM1u/view?usp=sharing">Demo Video</a>
     </span>
 </p>
-<img src="/img/gvcci_overview.png">
+<!-- <img src="/img/gvcci_overview.png"> -->
 <hr>
 
 
