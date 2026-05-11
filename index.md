@@ -97,10 +97,11 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 
 <a name="/PRORION"></a>
-<h2 class="pubt">PRORION: Enabling Proactive Cognition for Zero-shot Interactive Personalized Object Navigation
+<h2 class="pubt">Can Embodied Agents Remember What You Said? Evaluating Dialogue-Grounded Embodied Memory in 3D Environments
 </h2>
 <p class="pubd">
     <span class="authors">Seongjun Jeong, <span class="u">Junghyun Kim</span>, Gi-Cheon Kang, Byoung-Tak Zhang</span><br>
+    <span class="conf">CVPR 2026 Workshop on 3D-LLM/VLA</span><br>
 </p>
 <hr>
 
