@@ -76,18 +76,33 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # Publications
 
-<!-- <a name="/actionBERT"></a>
-<h2 class="pubt">ActionBERT: Learning Transferable Encoder Representation of Action Sequences</h2>
+<a name="/phasor"></a>
+<h2 class="pubt">Disentangling Spurious Correlations in Vision-Language-Action Models via Predicting Domain-Invariant Latent Lookahead</h2>
 <p class="pubd">
-    <span class="conf">Comming Soon!</span><br>
+    <span class="authors"><span class="u">Junghyun Kim<sup>*</sup></span>, Ngseo Kim<sup>*</sup>, ChungWoo Lee, Seoyeon Lee, Woo-Jeong Baek, Adam Zhou, Chip Huyen, Jun-Ki Lee<sup>&dagger;</sup>, Gi-Cheon Kang<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
+    <span class="conf">CoRL 2026 (Under Review)</span><br>
+    <span class="links">
+        <a target="_blank" href="">Paper</a>
+    </span>
 </p>
-<hr> -->
+<hr>
 
+
+<a name="/phasor"></a>
+<h2 class="pubt">PHASOR: Phase-Anchored Universal Action Representations for Humanoid Embodiments</h2>
+<p class="pubd">
+    <span class="authors">Kihyun Kim, Chaeyun Kim, Jongho Shin, Taeyoun Kwon, <span class="u">Junghyun Kim</span>, Mijin Koo, Haon Park</span><br>
+    <span class="conf">CoRL 2026 (Under Review)</span><br>
+    <span class="links">
+        <a target="_blank" href="">Paper</a>
+    </span>
+</p>
+<hr>
 
 <a name="/jangha_eccv"></a>
 <h2 class="pubt">RefineGround: From Noisy Similarity to Discriminative Grounding for Zero-shot Video Moment Retrieval</h2>
 <p class="pubd">
-    <span class="authors">Jangha Lee, Junbin Xiao, <span class="u">Junghyun Kim</span>, Byoung-Tak Zhang, Minjoon Jung</span><br>
+    <span class="authors">Jangha Lee, Junbin Xiao, <span class="u">Junghyun Kim</span>, Byoung-Tak Zhang<sup>&dagger;</sup>, Minjoon Jung<sup>&dagger;</sup></span><br>
     <span class="conf">ECCV 2026 (Under Review)</span><br>
     <span class="links">
         <a target="_blank" href="">Paper</a>
@@ -100,7 +115,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">Can Embodied Agents Remember What You Said? Evaluating Dialogue-Grounded Embodied Memory in 3D Environments
 </h2>
 <p class="pubd">
-    <span class="authors">Seongjun Jeong, <span class="u">Junghyun Kim</span>, Gi-Cheon Kang, Byoung-Tak Zhang</span><br>
+    <span class="authors">Seongjun Jeong, <span class="u">Junghyun Kim</span>, Gi-Cheon Kang<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
     <span class="conf">CVPR 2026 Workshop on 3D-LLM/VLA</span><br>
 </p>
 <hr>
@@ -109,7 +124,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <a name="/video_nips"></a>
 <h2 class="pubt">EgoExo-Con: Exploring View-Invariant Video Temporal Understanding</h2>
 <p class="pubd">
-    <span class="authors">Minjoon Jung, Junbin Xiao, <span class="u">Junghyun Kim</span>, Byoung-Tak Zhang, Angela Yao</span><br>
+    <span class="authors">Minjoon Jung, Junbin Xiao, <span class="u">Junghyun Kim</span>, Byoung-Tak Zhang<sup>&dagger;</sup>, Angela Yao<sup>&dagger;</sup></span><br>
     <span class="conf">ECCV 2026 (Under Review)</span><br>
     <span class="conf">NeurIPS 2025 Workshop on Multimodal Algorithmic Reasoning</span><br>
     <span class="links">
