@@ -76,10 +76,11 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # Publications
 
-<a name="/phasor"></a>
+<a name="/DILL"></a>
 <h2 class="pubt">Disentangling Spurious Correlations in Vision-Language-Action Models via Predicting Domain-Invariant Latent Lookahead</h2>
 <p class="pubd">
     <span class="authors"><span class="u">Junghyun Kim<sup>*</sup></span>, Ngseo Kim<sup>*</sup>, ChungWoo Lee, Seoyeon Lee, Woo-Jeong Baek, Adam Zhou, Chip Huyen, Jun-Ki Lee<sup>&dagger;</sup>, Gi-Cheon Kang<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
+    <span class="conf">RSS 2026 Workshop on Perception to Action</span><br>
     <span class="conf">CoRL 2026 (Under Review)</span><br>
     <span class="links">
         <a target="_blank" href="">Paper</a>
@@ -103,7 +104,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">RefineGround: From Noisy Similarity to Discriminative Grounding for Zero-shot Video Moment Retrieval</h2>
 <p class="pubd">
     <span class="authors">Jangha Lee, Junbin Xiao, <span class="u">Junghyun Kim</span>, Byoung-Tak Zhang<sup>&dagger;</sup>, Minjoon Jung<sup>&dagger;</sup></span><br>
-    <span class="conf">ECCV 2026 (Under Review)</span><br>
+    <span class="conf">ECCV 2026 Workshop on Multimodal Large Language Models for Unified Comprehension and Generation</span><br>
     <span class="links">
         <a target="_blank" href="">Paper</a>
     </span>
@@ -125,7 +126,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">EgoExo-Con: Exploring View-Invariant Video Temporal Understanding</h2>
 <p class="pubd">
     <span class="authors">Minjoon Jung, Junbin Xiao, <span class="u">Junghyun Kim</span>, Byoung-Tak Zhang<sup>&dagger;</sup>, Angela Yao<sup>&dagger;</sup></span><br>
-    <span class="conf">ECCV 2026 (Under Review)</span><br>
+    <span class="conf">ECCV 2026</span><br>
     <span class="conf">NeurIPS 2025 Workshop on Multimodal Algorithmic Reasoning</span><br>
     <span class="links">
         <a target="_blank" href="https://minjoong507.github.io/projects/EgoExo-Con/">Project Page</a>
