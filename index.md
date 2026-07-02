@@ -88,6 +88,17 @@ This background has equipped me with a strong foundation in mathematics and engi
 </p>
 <hr>
 
+<a name="/microVLA"></a>
+<h2 class="pubt">MicroVLA: Edge-Deployable Vision Language Action at 10M Parameters</h2>
+<p class="pubd">
+    <span class="authors">Ngseo Kim, <span class="u">Junghyun Kim</span>, Gi-Cheon Kang<sup>&dagger;</sup>, Youngjae Yu<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
+    <span class="conf">RSS 2026 L2P workshop</span><br>
+    <span class="links">
+        <a target="_blank" href="">Paper</a>
+    </span>
+</p>
+<hr>
+
 
 <a name="/phasor"></a>
 <h2 class="pubt">PHASOR: Phase-Anchored Universal Action Representations for Humanoid Embodiments</h2>
