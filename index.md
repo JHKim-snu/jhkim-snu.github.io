@@ -105,6 +105,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <p class="pubd">
     <span class="authors">Jangha Lee, Junbin Xiao, <span class="u">Junghyun Kim</span>, Byoung-Tak Zhang<sup>&dagger;</sup>, Minjoon Jung<sup>&dagger;</sup></span><br>
     <span class="conf">ECCV 2026 Workshop on Multimodal Large Language Models for Unified Comprehension and Generation</span><br>
+    <span class="conf">AAAI 2027 (Under Review)</span><br>
     <span class="links">
         <a target="_blank" href="">Paper</a>
     </span>
