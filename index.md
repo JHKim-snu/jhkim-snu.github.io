@@ -80,7 +80,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">Disentangling Spurious Correlations in Vision-Language-Action Models via Predicting Domain-Invariant Latent Lookahead</h2>
 <p class="pubd">
     <span class="authors"><span class="u">Junghyun Kim<sup>*</sup></span>, Ngseo Kim<sup>*</sup>, ChungWoo Lee, Seoyeon Lee, Woo-Jeong Baek, Adam Zhou, Chip Huyen, Jun-Ki Lee<sup>&dagger;</sup>, Gi-Cheon Kang<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
-    <span class="conf">RSS 2026 Workshop on Perception to Action</span><br>
+    <span class="conf">RSS 2026 SemRob (Spotlight)</span><br>
     <span class="conf">CoRL 2026 (Under Review)</span><br>
     <span class="links">
         <a target="_blank" href="">Paper</a>
