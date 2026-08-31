@@ -9,11 +9,10 @@ permalink:  /
         <img src="/img/profile.jpg" class="profile">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        Ph.D. Candidate<br>
-        Graduate School of AI (GSAI)<br>
+        Research Fellow<br>
         Artificial Intelligence Institute (AIIS)<br>
         Seoul National University<br>
-        <a target="_blank" href="mailto:justinK7272@gmail.com">justinK7272 at gmail dot com</a><br>
+        <a target="_blank" href="mailto:jkim.aiforall@gmail.com">jkim.aiforall@gmail.com</a><br>
         (+82)10-9844-9885
     </div>
 </div>
@@ -104,7 +103,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">PHASOR: Phase-Anchored Universal Action Representations for Humanoid Embodiments</h2>
 <p class="pubd">
     <span class="authors">Kihyun Kim, Chaeyun Kim, Jongho Shin, Taeyoun Kwon, <span class="u">Junghyun Kim</span>, Mijin Koo, Haon Park</span><br>
-    <span class="conf">CoRL 2026 (Under Review)</span><br>
+    <span class="conf">ECCV 2026 Workshop on Human-Motion World Models</span><br>
     <span class="links">
         <a target="_blank" href="">Paper</a>
     </span>
