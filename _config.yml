@@ -3,7 +3,7 @@ name: Junghyun Kim
 # url: http://gicheonkang.com
 author:
   name: Junghyun Kim
-  email: justinK7272@gmail.com
+  email: jkim.aiforall@gmail.com
 description: I am a Ph.D. student in the Graduate School of AI at Seoul National University, advised by Prof. Byoung-Tak Zhang. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm particularly interested in grounded language learning, which ...
 permalink: /posts/:title/
 include: ['_pages']
