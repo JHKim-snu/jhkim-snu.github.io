@@ -80,10 +80,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <p class="pubd">
     <span class="authors"><span class="u">Junghyun Kim<sup>*</sup></span>, Ngseo Kim<sup>*</sup>, ChungWoo Lee, Seoyeon Lee, Woo-Jeong Baek, Adam Zhou, Chip Huyen, Jun-Ki Lee<sup>&dagger;</sup>, Gi-Cheon Kang<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
     <span class="conf">RSS 2026 SemRob (Spotlight)</span><br>
-    <span class="conf">CoRL 2026 (Under Review)</span><br>
-    <span class="links">
-        <a target="_blank" href="">Paper</a>
-    </span>
+    <span class="conf">CoRL 2026</span><br>
 </p>
 <hr>
 
@@ -92,9 +89,6 @@ This background has equipped me with a strong foundation in mathematics and engi
 <p class="pubd">
     <span class="authors">Ngseo Kim, <span class="u">Junghyun Kim</span>, Gi-Cheon Kang<sup>&dagger;</sup>, Youngjae Yu<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
     <span class="conf">RSS 2026 L2P workshop</span><br>
-    <span class="links">
-        <a target="_blank" href="">Paper</a>
-    </span>
 </p>
 <hr>
 
@@ -105,7 +99,7 @@ This background has equipped me with a strong foundation in mathematics and engi
     <span class="authors">Kihyun Kim, Chaeyun Kim, Jongho Shin, Taeyoun Kwon, <span class="u">Junghyun Kim</span>, Mijin Koo, Haon Park</span><br>
     <span class="conf">ECCV 2026 Workshop on Human-Motion World Models</span><br>
     <span class="links">
-        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2606.01851">Paper</a>
     </span>
 </p>
 <hr>
@@ -115,10 +109,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <p class="pubd">
     <span class="authors">Jangha Lee, Junbin Xiao, <span class="u">Junghyun Kim</span>, Byoung-Tak Zhang<sup>&dagger;</sup>, Minjoon Jung<sup>&dagger;</sup></span><br>
     <span class="conf">ECCV 2026 Workshop on Multimodal Large Language Models for Unified Comprehension and Generation</span><br>
-    <span class="conf">AAAI 2027 (Under Review)</span><br>
-    <span class="links">
-        <a target="_blank" href="">Paper</a>
-    </span>
+    <span class="conf">AAAI 2027</span><br>
 </p>
 <hr>
 
@@ -137,7 +128,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">EgoExo-Con: Exploring View-Invariant Video Temporal Understanding</h2>
 <p class="pubd">
     <span class="authors">Minjoon Jung, Junbin Xiao, <span class="u">Junghyun Kim</span>, Byoung-Tak Zhang<sup>&dagger;</sup>, Angela Yao<sup>&dagger;</sup></span><br>
-    <span class="conf">ECCV 2026</span><br>
+    <span class="conf">European Conference on Computer Vision (ECCV 2026)</span><br>
     <span class="conf">NeurIPS 2025 Workshop on Multimodal Algorithmic Reasoning</span><br>
     <span class="links">
         <a target="_blank" href="https://minjoong507.github.io/projects/EgoExo-Con/">Project Page</a>
@@ -173,7 +164,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following</h2>
 <p class="pubd">
     <span class="authors">Suyeon Shin, Sujin jeon<sup>*</sup>, <span class="u">Junghyun Kim<sup>*</sup></span>, Gi-Cheon Kang<sup>*</sup>, Byoung-Tak Zhang</span><br>
-    <span class="conf">ICRA 2025</span><br>
+    <span class="conf">International Conference on Robotics &amp; Automation (ICRA 2025)</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2404.15190">Paper</a>
         <a target="_blank" href="">Code</a>
@@ -186,7 +177,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">PGA: Personalizing Grasping Agents with Single Human-Robot Interaction</h2>
 <p class="pubd">
     <span class="authors"><span class="u">Junghyun Kim</span>, Gi-Cheon Kang<sup>*</sup>, Jaein Kim<sup>*</sup>, Seoyun Yang, Minjoon Jung, Byoung-Tak Zhang</span><br>
-    <span class="conf">IROS 2024</span><br>
+    <span class="conf">International Conference on Intelligent Robots and Systems (IROS 2024)</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2310.12547">Paper</a>
         <a target="_blank" href="https://github.com/JHKim-snu/PGA">Code</a>
@@ -199,7 +190,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">PROGrasp: Pragmatic Human-Robot Communication for Object Grasping</h2>
 <p class="pubd">
     <span class="authors">Gi-Cheon Kang, <span class="u">Junghyun Kim</span>, Jaein Kim, Byoung-Tak Zhang</span><br>
-    <span class="conf">ICRA 2024</span><br>
+    <span class="conf">International Conference on Robotics &amp; Automation (ICRA 2024)</span><br>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2309.07759">Paper</a>
         <a target="_blank" href="https://github.com/gicheonkang/prograsp">Code</a>
@@ -214,7 +205,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">GVCCI: Lifelong Learning of Visual Grounding for Language-Guided Robotic Manipulation</h2>
 <p class="pubd">
     <span class="authors"><span class="u">Junghyun Kim</span>, Gi-Cheon Kang<sup>*</sup>, Jaein Kim<sup>*</sup>, Suyeon Shin, Byoung-Tak Zhang</span><br>
-    <span class="conf">IROS 2023</span><br>
+    <span class="conf">International Conference on Intelligent Robots and Systems (IROS 2023)</span><br>
     <span class="conf">Oral Presentation</span>
     <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2307.05963">Paper</a>
