@@ -6,7 +6,7 @@ permalink:  /
 
 <div class="row">
     <div class="col-sm-6 col-xs-12">
-        <img src="/img/profile.jpg" class="profile">
+        <img src="/img/profile.jpg?v=20260831" class="profile">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Research Fellow<br>
