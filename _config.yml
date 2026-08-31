@@ -1,9 +1,9 @@
 encoding: utf-8
 name: Junghyun Kim
-# url: http://gicheonkang.com
+url: https://jhkim-snu.github.io
 author:
   name: Junghyun Kim
   email: jkim.aiforall@gmail.com
-description: I am a Ph.D. student in the Graduate School of AI at Seoul National University, advised by Prof. Byoung-Tak Zhang. My research straddles machine learning, natural language processing, computer vision, and robotics. I'm particularly interested in grounded language learning, which ...
+description: Ph.D. in Artificial Intelligence, SNU. Postdoctoral Research Fellow at AIIS, SNU. Research Fellow at OpenMind, San Francisco Bay Area.
 permalink: /posts/:title/
 include: ['_pages']
