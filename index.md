@@ -24,15 +24,24 @@ permalink:  /
 
 <a name="/bio"></a>
 
-# Bio
+# About Me
 
-I hold a Ph.D. in Artificial Intelligence from <a href="http://en.snu.ac.kr">Seoul National University</a>, completed under the guidance of <a href="https://bi.snu.ac.kr/~btzhang/">Prof. Byoung-Tak Zhang</a>.
-I am currently interested in developing foundation models for generalist robots, grounding of language to perception and action.
-My research objective is to empower robots to autonomously acquire an understanding of the real world with minimal human supervision.
+I am a Physical AI Researcher.
 
-Before pursuing my Ph.D. in Artificial Intelligence, I completed my Bachelor's degree in Electrical and Electronics Engineering at <a href="https://www.yonsei.ac.kr/en_sc/">Yonsei University</a>. 
-This background has equipped me with a strong foundation in mathematics and engineering.
+## Education
 
+### [Seoul National University](http://en.snu.ac.kr)
+
+**Ph.D. in Artificial Intelligence**  
+Advisor: [Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/)  
+Thesis: *Learning Semantically Grounded Latent Spaces in Vision-Language-Action Models*  
+March 2021 – August 2026
+
+### [Yonsei University](https://www.yonsei.ac.kr/en_sc/)
+
+**B.S. in Electrical and Electronic Engineering (EEE)**  
+March 2016 – February 2021  
+Thesis: *Large-Scale Tiny Face Detection using Multi-Task Cascaded Convolutional Neural Network*
 
 ---
 
@@ -80,6 +89,8 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 # Publications
 
+## Highlights
+
 <a name="/DILL"></a>
 <h2 class="pubt">Disentangling Spurious Correlations in Vision-Language-Action Models via Predicting Domain-Invariant Latent Lookahead</h2>
 <p class="pubd">
@@ -87,6 +98,26 @@ This background has equipped me with a strong foundation in mathematics and engi
     <span class="conf">RSS 2026 SemRob (Spotlight)</span><br>
 </p>
 <hr>
+
+<a name="/cliprt"></a>
+<h2 class="pubt">CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</h2>
+<p class="pubd">
+    <span class="authors">Gi-Cheon Kang<sup>*</sup>, <span class="u">Junghyun Kim<sup>*</sup></span>, Kyuhwan Shim, Jun Ki Lee<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
+    <span class="conf">Robotics: Science and Systems (RSS 2025)</span><br>
+    <span class="conf">CoRL 2024 Workshop on Language and Robot Learning</span>
+    <span class="links">
+        <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
+        <a target="_blank" href="https://arxiv.org/abs/2411.00508">Paper</a>
+        <a target="_blank" href="https://github.com/clip-rt/clip-rt">Github</a>
+        <a target="_blank" href="https://huggingface.co/clip-rt">HuggingFace</a>
+    </span>
+</p>
+<!-- <video playsinline autoplay muted loop style="width: 100%" class="webby">
+    <source src="/img/cliprt_overview.mp4" type="video/mp4"></source>
+</video> -->
+<hr>
+
+## All Publications
 
 <a name="/microVLA"></a>
 <h2 class="pubt">MicroVLA: Edge-Deployable Vision Language Action at 10M Parameters</h2>
@@ -112,7 +143,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 <h2 class="pubt">RefineGround: From Noisy Similarity to Discriminative Grounding for Zero-shot Video Moment Retrieval</h2>
 <p class="pubd">
     <span class="authors">Jangha Lee, Junbin Xiao, <span class="u">Junghyun Kim</span>, Byoung-Tak Zhang<sup>&dagger;</sup>, Minjoon Jung<sup>&dagger;</sup></span><br>
-    <span class="conf">ECCV 2026 Workshop on Multimodal Large Language Models for Unified Comprehension and Generation</span><br>
+    <span class="conf">Under Review</span><br>
 </p>
 <hr>
 
@@ -141,26 +172,6 @@ This background has equipped me with a strong foundation in mathematics and engi
 </p>
 <!-- <img src="/img/video_method_overview.png"> -->
 <hr>
-
-
-<a name="/cliprt"></a>
-<h2 class="pubt">CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision</h2>
-<p class="pubd">
-    <span class="authors">Gi-Cheon Kang<sup>*</sup>, <span class="u">Junghyun Kim<sup>*</sup></span>, Kyuhwan Shim, Jun Ki Lee<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
-    <span class="conf">Robotics: Science and Systems (RSS 2025)</span><br>
-    <span class="conf">CoRL 2024 Workshop on Language and Robot Learning</span>
-    <span class="links">
-        <a target="_blank" href="https://clip-rt.github.io">Project Page</a>
-        <a target="_blank" href="https://arxiv.org/abs/2411.00508">Paper</a>
-        <a target="_blank" href="https://github.com/clip-rt/clip-rt">Github</a>
-        <a target="_blank" href="https://huggingface.co/clip-rt">HuggingFace</a>
-    </span>
-</p>
-<!-- <video playsinline autoplay muted loop style="width: 100%" class="webby">
-    <source src="/img/cliprt_overview.mp4" type="video/mp4"></source>
-</video> -->
-<hr>
-
 
 
 <a name="/socratic"></a>
