@@ -9,11 +9,15 @@ permalink:  /
         <img src="/img/profile.jpg?v=20260831" class="profile" style="width: 248px; height: auto; max-width: 80%;">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        Research Fellow<br>
+        Postdoctoral Research Fellow<br>
         Artificial Intelligence Institute (AIIS)<br>
         Seoul National University<br>
         <a target="_blank" href="mailto:jkim.aiforall@gmail.com">jkim.aiforall@gmail.com</a><br>
-        (+82)10-9844-9885
+        (+82)10-9844-9885<br><br>
+        Research Fellow<br>
+        OpenMind<br>
+        San Francisco Bay Area<br>
+        <a target="_blank" href="mailto:justin@openmind.com">justin@openmind.com</a>
     </div>
 </div>
 <hr>
@@ -22,16 +26,17 @@ permalink:  /
 
 # Bio
 
-I am a Ph.D. candidate at the Graduate School of AI, <a href="http://en.snu.ac.kr">Seoul National University</a>, under the guidance of <a href="https://bi.snu.ac.kr/~btzhang/">Prof. Byoung-Tak Zhang</a>.
+I hold a Ph.D. in Artificial Intelligence from <a href="http://en.snu.ac.kr">Seoul National University</a>, completed under the guidance of <a href="https://bi.snu.ac.kr/~btzhang/">Prof. Byoung-Tak Zhang</a>.
 I am currently interested in developing foundation models for generalist robots, grounding of language to perception and action.
 My research objective is to empower robots to autonomously acquire an understanding of the real world with minimal human supervision.
 
-Prior to joining integrated Ph.D. in AI, I completed my Bachelor's degree in Electrical and Electronics Engineering at <a href="https://www.yonsei.ac.kr/en_sc/">Yonsei University</a>. 
+Before pursuing my Ph.D. in Artificial Intelligence, I completed my Bachelor's degree in Electrical and Electronics Engineering at <a href="https://www.yonsei.ac.kr/en_sc/">Yonsei University</a>. 
 This background has equipped me with a strong foundation in mathematics and engineering.
 
 
 ---
 
+<!--
 <a name="/news"></a>
 
 # News
@@ -69,7 +74,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 </div>
 
 <hr>
-
+-->
 
 <a name="/publications"></a>
 
@@ -235,19 +240,7 @@ This background has equipped me with a strong foundation in mathematics and engi
 
 
 
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-    <tr>
-      <td>
-        <br>
-        <p align="right"><font size="2">
-          <a href="https://abhishekdas.com/">(Courtesy: Abhishek Das)</a>
-          <!-- <a href="http://www.cs.berkeley.edu/~barron/"> this website</a> -->
-          </font>
-        </p>
-      </td>
-    </tr>
 
-</table>
 
 <script src="/js/jquery.min.js"></script>
 <script type="text/javascript">
