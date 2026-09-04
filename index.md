@@ -95,6 +95,7 @@ Thesis: *Large-Scale Tiny Face Detection using Multi-Task Cascaded Convolutional
 <h2 class="pubt">Disentangling Spurious Correlations in Vision-Language-Action Models via Predicting Domain-Invariant Latent Lookahead</h2>
 <p class="pubd">
     <span class="authors"><span class="u">Junghyun Kim<sup>*</sup></span>, Ngseo Kim<sup>*</sup>, ChungWoo Lee, Seoyeon Lee, Woo-Jeong Baek, Adam Zhou, Chip Huyen, Jun-Ki Lee<sup>&dagger;</sup>, Gi-Cheon Kang<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
+    <span class="conf">Conference on Robot Learning (CoRL 2026)</span><br>
     <span class="conf">RSS 2026 SemRob (Spotlight)</span><br>
 </p>
 <hr>
