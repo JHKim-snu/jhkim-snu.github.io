@@ -156,12 +156,14 @@ Thesis: *Large-Scale Tiny Face Detection using Multi-Task Cascaded Convolutional
 <hr>
 
 
-<a name="/PRORION"></a>
-<h2 class="pubt">Can Embodied Agents Remember What You Said? Evaluating Dialogue-Grounded Embodied Memory in 3D Environments
-</h2>
+<a name="/dialogmem"></a>
+<h2 class="pubt">DialogMem: Evaluating Dialogue-Grounded Embodied Memory in 3D Environments</h2>
 <p class="pubd">
     <span class="authors">Seongjun Jeong, <span class="u">Junghyun Kim</span>, Gi-Cheon Kang<sup>&dagger;</sup>, Byoung-Tak Zhang<sup>&dagger;</sup></span><br>
     <span class="conf">CVPR 2026 Workshop on 3D-LLM/VLA</span><br>
+    <span class="links">
+        <a target="_blank" href="https://arxiv.org/abs/2610.24767">Paper</a>
+    </span>
 </p>
 <hr>
 
